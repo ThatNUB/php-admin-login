@@ -1,0 +1,7 @@
+{
+    "name": "tmplmaster/adminpage",
+    "description": "A simple admin page template (no SQL required)",
+    "type": "project",
+    "license": "MIT",
+    "require": {}
+}
